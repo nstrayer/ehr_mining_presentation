@@ -1,0 +1,5 @@
+]0;/home/nick/presentations/ehr_mining_papernick@ip-172-31-8-178:~/presentations/ehr_mining_paper$ [Knick@ip-172-31-8-178:~/presentations/ehr_mining_paper$ cp ../../arules_presentation/frequent_set.svg .
+]0;/home/nick/presentations/ehr_mining_papernick@ip-172-31-8-178:~/presentations/ehr_mining_paper$ git init
+Initialized empty Git repository in /home/nick/presentations/ehr_mining_paper/.git/
+]0;/home/nick/presentations/ehr_mining_papernick@ip-172-31-8-178:~/presentations/ehr_mining_paper$ git remote add origin git@github.com:nstrayer/ehr_mining_presentation.git
+]0;/home/nick/presentations/ehr_mining_papernick@ip-172-31-8-178:~/presentations/ehr_mining_paper$ git dd -[K[K[K[Kadd -A
